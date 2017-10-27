@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RateUs</string>
+
+    <string name="rate_app_title">Rate our App</string>
+    <string name="rate_app_message">If you like our app, please take a moment to rate it in play store!</string>
+
+    <string name="dialog_app_rate">Rate Now</string>
+    <string name="dialog_no_rate">No, thanks</string>
+    <string name="dialog_rate_later">Remind later</string>
+</resources>
